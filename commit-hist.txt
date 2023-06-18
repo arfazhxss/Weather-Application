@@ -1,0 +1,12 @@
+commit 061aad8fe791c5485cac84473964bba478d86f51
+Author: Arfaz Hossain <arfazhussain@uvic.ca>
+Date:   Sun Jun 18 15:09:07 2023 -0700
+
+    Refactoring UI and Preparing for Documentation
+    Commit by @arfazhxss on Sun 18 Jun 2023
+
+commit 499ec29b8b48eab497af0d47eb01e5368b17febf
+Author: Arfaz Hossain <arfazhussain@uvic.ca>
+Date:   Sun Jun 18 15:03:54 2023 -0700
+
+    First Commit by @arfazhxss
