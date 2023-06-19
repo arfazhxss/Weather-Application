@@ -1,3 +1,10 @@
+commit e84375307b071174c62ad0db1da00ec154c971a5
+Author: Arfaz Hossain <arfazhussain@uvic.ca>
+Date:   Sun Jun 18 15:23:12 2023 -0700
+
+    Updated AppView
+    Commit by @arfazhxss on Sun 18 Jun 2023
+
 commit 061aad8fe791c5485cac84473964bba478d86f51
 Author: Arfaz Hossain <arfazhussain@uvic.ca>
 Date:   Sun Jun 18 15:09:07 2023 -0700
