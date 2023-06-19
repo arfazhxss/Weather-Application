@@ -1,6 +1,4 @@
-This is the first variants of Swift Applications I am working on, as part of my learning process.
-
-A simple weather application that utilizes the OpenWeather API to provide real-time weather information based on the user's current geolocation coordinates, implementing HTTP requests with async/await to parse weather data from JSON files.
+The first variants of Swift Applications I am working on: A simple weather application that utilizes the OpenWeather API to provide real-time weather information based on the user's current geolocation coordinates, implementing HTTP requests with async/await to parse weather data from JSON files.
 
 
 ![Van](https://github.com/arfazhxss/WeatherAppVariants/assets/84450659/31ce9212-2ca9-454d-b300-b7304997e6c2)
