@@ -1,41 +1,48 @@
-commit b01dafee848359ec376071a006610a4117944fb5
+commit 30ea132b457d9314bd48e73a5e2af3442357a607
+Author: Arfaz Hossain <arfazhussain@uvic.ca>
+Date:   Sun Jun 18 20:21:35 2023 -0700
+
+    Routine Commit
+    by @arfazhxss on Sun 18 Jun 2023
+
+commit 910977b311cfa911b1f1a6b4630fe6ff23043aa0
 Author: Arfaz Hossain <arfazhussain@uvic.ca>
 Date:   Sun Jun 18 20:18:47 2023 -0700
 
     Change in API Notation
     Commit by @arfazhxss on Sun 18 Jun 2023
 
-commit ecbdb49458b6431bf90ea57105b678dbfbf583c0
+commit a31bc525a0fdc37904977325ade2dec57b635762
 Author: Arfaz Hussain <arfazhussain@uvic.ca>
 Date:   Sun Jun 18 17:06:26 2023 -0700
 
     Update README.md
 
-commit a6691c483887d6bfd17585abed6fc39032fc6315
+commit 51915133df020f3290451f63ffb212a88c8267d8
 Author: Arfaz Hussain <arfazhussain@uvic.ca>
 Date:   Sun Jun 18 17:05:43 2023 -0700
 
     Update README.md
 
-commit f7ede1178170de77b96d8256ce576f035b8db10f
+commit d9e67caa07326e7aa87c388964eeeb3928d29200
 Author: Arfaz Hussain <arfazhussain@uvic.ca>
 Date:   Sun Jun 18 16:16:10 2023 -0700
 
     Updated AppView
 
-commit 7db00aab1ad4c1f624600f2544cf39e4042e9102
+commit 66ec951f0023ff65522f75266b28347ae22d5354
 Author: Arfaz Hussain <arfazhussain@uvic.ca>
 Date:   Sun Jun 18 15:29:28 2023 -0700
 
     Update README.md
 
-commit 987df90589c76ac2c3d2f7f5caa8a7f0d094c7e7
+commit 2a4ae11a1a0263c99c04986a1a994c28a209a283
 Author: Arfaz Hussain <arfazhussain@uvic.ca>
 Date:   Sun Jun 18 15:25:14 2023 -0700
 
     Updated AppView Details
 
-commit 33feee8d8bc307e091da69ff1ebe407dcc37a182
+commit e6c4bff7efb6943083bfb5d791784d8ac1abfa4a
 Author: Arfaz Hussain <arfazhussain@uvic.ca>
 Date:   Sun Jun 18 15:23:57 2023 -0700
 
